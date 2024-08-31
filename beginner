@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head><title>take quiz</title>
+</head>
+<body>
+    select a levels
+    <ul>
+        <li><a href="beginner.html">BEGINNER</a></li>
+        <li><a href="intermediate.html">INTERMEDIATE</a></li>
+        <li><a href="expert.html">EXPERT</a></li>
+    </ul>
+    
+</body>
