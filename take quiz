@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <title>beginner</title>
+    <style>
+       h1 {
+        color: purple;
+        font-family: 'Times New Roman', Times, serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>HEY!</h1>
+    
+    lets get going on your skills about biotechnology first. You will get in total 5 multiple choice questions for what you will have 4 options each and one amongst them will be the correct option. 
+    <div> 
+    <form>
+        Ques 1. Nucleic acids are the polymers of-
+        <ol type="a">
+     <li><div><input type="radio" name="nucleosidies">nucleosides</div></li>
+     <li><div><input type="radio" name="nucleotidies">nucleotides</div></li>
+     <li><div><input type="radio" name="protiens">protiens</div></li>
+     <li><div><input type="radio" name="amino acids">amino acids</div></li>
+     </ol>
+     Ques 2. Restriction enzymes were discovered by-
+     <ol type="a">
+  <li><div><input type="radio" name="Smith and Nathans">Smith and Nathans</div></li>
+  <li><div><input type="radio" name="Alexander Fleming">Alexander Fleming</div></li>
+  <li><div><input type="radio" name="Berg">Berg</div></li>
+  <li><div><input type="radio" name="None">None</div></li>
+  </ol>
+  Ques 3. Bacteria protect themselves from viruses by fragmenting viral DNA with-
+  <ol type="a">
+<li><div><input type="radio" name="Ligase">Ligase</div></li>
+<li><div><input type="radio" name="Endonuclease">Endonuclease</div></li>
+<li><div><input type="radio" name="Exonuclease">Exonuclease</div></li>
+<li><div><input type="radio" name="Gyrase">Gyrase</div></li>
+</ol>
+Ques 4. The Golden Rice variety is rich in-
+<ol type="a">
+<li><div><input type="radio" name="Vitamin C">Vitamin C</div></li>
+<li><div><input type="radio" name="Β-carotene and ferritin">Β-carotene and ferritin</div></li>
+<li><div><input type="radio" name="Biotin">Biotin</div></li>
+<li><div><input type="radio" name="Lysine">Lysine</div></li>
+</ol>
+    </div>
+    </form>
+</body>
